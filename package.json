@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "expressjs": "^1.0.1"
+  },
+  "name": "roboinsect-backend",
+  "version": "1.0.0",
+  "description": "nodejs backend",
+  "main": "server,js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
